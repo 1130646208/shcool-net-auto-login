@@ -1,6 +1,6 @@
 # Login schoolnet automatically
-# Author : Guo
-# Contact : guoqr1997@163.com
+# Author : wsx
+# Contact : 1130646208@qq.com
 import os
 import subprocess
 import time
